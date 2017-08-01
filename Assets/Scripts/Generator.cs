@@ -24,7 +24,7 @@ public class Generator : MonoBehaviour {
             broken = true;
             GameController.instance.numOfBrokenGen += 1;
 
-            GetComponent<BoxCollider>().enabled = false;
+            GetComponent<MeshCollider>().enabled = false;
         }
         else if (heath <= 20)
             indicators[1].GetComponent<Renderer>().material.color = Color.red;

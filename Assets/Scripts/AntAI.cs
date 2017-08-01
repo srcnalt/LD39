@@ -60,21 +60,22 @@ public class AntAI : MonoBehaviour
             GetComponent<Animator>().Play("Walk");
         }
 
-        if (target.tag != "Player" && antState == AntState.ATTACKING)
+        if (target.tag != "Player" && target.GetComponent<Generator>().broken)
         {
-            if (target.GetComponent<Generator>().broken)
-            {
-                FindTarget();
+            StopAllCoroutines();
 
-                antState = AntState.WALKING;
-            }
-            else
-            {
-                antState = AntState.WAIT;
+            FindTarget();
 
-                StartCoroutine(Hit());
-            }
+            antState = AntState.WALKING;
         }
+
+        if (antState == AntState.ATTACKING)
+        {
+            antState = AntState.WAIT;
+
+            StartCoroutine(Hit());
+        }
+
 
         if (antState == AntState.ATTACK_PLAYER)
         {
