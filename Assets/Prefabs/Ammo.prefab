@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 95601965269196288}
   - component: {fileID: 114166682773394670}
   - component: {fileID: 65986710229703036}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Ammo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39,7 +39,7 @@ Transform:
   m_GameObject: {fileID: 1355759874805630}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 201.88493, y: 1.31, z: 246.92285}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0

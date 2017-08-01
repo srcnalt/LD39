@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 4203981aaea51b146b49404a39fde83d
+timeCreated: 1501357218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_002
+    100010: Bone_003
+    100012: Bone_004
+    100014: Bone_005
+    100016: Bone_006
+    100018: Bone_007
+    100020: Bone_008
+    100022: Bone_009
+    100024: Bone_010
+    100026: Bone_011
+    100028: Bone_012
+    100030: Bone_013
+    100032: Bone_014
+    100034: Bone_015
+    100036: Bone_016
+    100038: Bone_017
+    100040: Bone_018
+    100042: Bone_019
+    100044: Bone_020
+    100046: Bone_021
+    100048: Cube
+    100050: Gun
+    100052: arm_down_L
+    100054: arm_down_R
+    100056: arm_up_L
+    100058: arm_up_R
+    100060: h1_1_L
+    100062: h1_1_R
+    100064: h1_2_L
+    100066: h1_2_R
+    100068: h1_3_L
+    100070: h1_3_R
+    100072: h2_1_L
+    100074: h2_1_R
+    100076: h2_2_L
+    100078: h2_2_R
+    100080: h2_3_L
+    100082: h2_3_R
+    100084: h2_4_L
+    100086: h2_4_R
+    100088: h3_1_L
+    100090: h3_1_R
+    100092: h3_2_L
+    100094: h3_2_R
+    100096: h3_3_L
+    100098: h3_3_R
+    100100: h3_4_L
+    100102: h3_4_R
+    100104: h4_1_L
+    100106: h4_1_R
+    100108: h4_2_L
+    100110: h4_2_R
+    100112: h4_3_L
+    100114: h4_3_R
+    100116: h4_4_L
+    100118: h4_4_R
+    100120: h5_1_L
+    100122: h5_1_R
+    100124: h5_2_L
+    100126: h5_2_R
+    100128: h5_3_L
+    100130: h5_3_R
+    100132: h5_4_L
+    100134: h5_4_R
+    400000: //RootNode
+    400002: Armature
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_002
+    400010: Bone_003
+    400012: Bone_004
+    400014: Bone_005
+    400016: Bone_006
+    400018: Bone_007
+    400020: Bone_008
+    400022: Bone_009
+    400024: Bone_010
+    400026: Bone_011
+    400028: Bone_012
+    400030: Bone_013
+    400032: Bone_014
+    400034: Bone_015
+    400036: Bone_016
+    400038: Bone_017
+    400040: Bone_018
+    400042: Bone_019
+    400044: Bone_020
+    400046: Bone_021
+    400048: Cube
+    400050: Gun
+    400052: arm_down_L
+    400054: arm_down_R
+    400056: arm_up_L
+    400058: arm_up_R
+    400060: h1_1_L
+    400062: h1_1_R
+    400064: h1_2_L
+    400066: h1_2_R
+    400068: h1_3_L
+    400070: h1_3_R
+    400072: h2_1_L
+    400074: h2_1_R
+    400076: h2_2_L
+    400078: h2_2_R
+    400080: h2_3_L
+    400082: h2_3_R
+    400084: h2_4_L
+    400086: h2_4_R
+    400088: h3_1_L
+    400090: h3_1_R
+    400092: h3_2_L
+    400094: h3_2_R
+    400096: h3_3_L
+    400098: h3_3_R
+    400100: h3_4_L
+    400102: h3_4_R
+    400104: h4_1_L
+    400106: h4_1_R
+    400108: h4_2_L
+    400110: h4_2_R
+    400112: h4_3_L
+    400114: h4_3_R
+    400116: h4_4_L
+    400118: h4_4_R
+    400120: h5_1_L
+    400122: h5_1_R
+    400124: h5_2_L
+    400126: h5_2_R
+    400128: h5_3_L
+    400130: h5_3_R
+    400132: h5_4_L
+    400134: h5_4_R
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Gun
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Gun
+    4300000: Cube
+    4300002: Gun
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: Fire
+    7400006: Idle
+    7400008: Reload
+    7400010: Walk
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Gun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire
+      takeName: Fire
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reload
+      takeName: Reload
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

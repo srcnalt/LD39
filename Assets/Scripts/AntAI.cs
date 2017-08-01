@@ -124,7 +124,6 @@ public class AntAI : MonoBehaviour
 
         switch(Random.Range(0, 10))
         {
-            case 0:
             case 1:
             case 3:
                 Instantiate(collAmmo, transform.position, transform.rotation);
