@@ -55,6 +55,9 @@ public class FPSController : MonoBehaviour
     {
         if (!GameController.instance.startGame) return;
 
+        if (Input.GetKeyDown(KeyCode.T))
+            animator.Play("Thumb");
+
         vertical    = Input.GetAxis("Vertical") * speed;
         horizontal  = Input.GetAxis("Horizontal") * speed;
 
